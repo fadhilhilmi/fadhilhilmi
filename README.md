@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @fadhilhilmi
 - 👀 I’m interested in data science
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning data science and machine learning
+- 📫 You can reach me ny email at fadhil_hilmi26%yahoo.co.id
 
 <!---
 fadhilhilmi/fadhilhilmi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
